@@ -1,0 +1,9 @@
+C:\Users\kubon\source\repos\SudokuProject\SudokuProject\bin\Debug\SudokuProject.exe.config
+C:\Users\kubon\source\repos\SudokuProject\SudokuProject\bin\Debug\SudokuProject.exe
+C:\Users\kubon\source\repos\SudokuProject\SudokuProject\bin\Debug\SudokuProject.pdb
+C:\Users\kubon\source\repos\SudokuProject\SudokuProject\obj\Debug\SudokuProject.csprojAssemblyReference.cache
+C:\Users\kubon\source\repos\SudokuProject\SudokuProject\obj\Debug\SudokuProject.Properties.Resources.resources
+C:\Users\kubon\source\repos\SudokuProject\SudokuProject\obj\Debug\SudokuProject.csproj.GenerateResource.cache
+C:\Users\kubon\source\repos\SudokuProject\SudokuProject\obj\Debug\SudokuProject.exe
+C:\Users\kubon\source\repos\SudokuProject\SudokuProject\obj\Debug\SudokuProject.pdb
+C:\Users\kubon\source\repos\SudokuProject\SudokuProject\obj\Debug\SudokuProject.Form1.resources
